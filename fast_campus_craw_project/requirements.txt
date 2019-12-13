@@ -1,0 +1,7 @@
+
+아래 패키지는 본 크롤링을 위해 사용된 패키지입니다.
+
+import requests
+import json
+import scrapy
+import pandas as pd
