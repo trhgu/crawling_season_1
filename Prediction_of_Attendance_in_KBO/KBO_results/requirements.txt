@@ -1,0 +1,8 @@
+
+# 아래 패키지는 KBO 경기결과 크롤링을 위해 사용된 패키지입니다.
+
+import re
+import requests
+import json
+import scrapy
+import pandas as pd
